@@ -1,0 +1,30 @@
+.info-list{
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+    
+}
+
+.info-list .action{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.info-list .action button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    background: #333333;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s;
+    width: 200px;
+}
+
+.info-list .action button:hover{
+    background: #ff5500;
+    color:#fff;
+}
