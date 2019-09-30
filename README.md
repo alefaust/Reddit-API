@@ -4,18 +4,20 @@ Projeto Reddit by Alexandre Faustino - Winnin
 
 * Instalar NodeJS
 
-* Instalar Create-react-app
 ### `npm install create-react-app`
+* Instalar Create-react-app
 
-* Instalar Yarn (opicional)
- ## https://yarnpkg.com/lang/pt-br/docs/install/#windows-stable
 
-* Instalar Axios
-###  `yarn add axios`
+### `https://yarnpkg.com/lang/pt-br/docs/install/#windows-stable`
+* Instalar Yarn (Opicional)
+
+
 ###  `npm install -D axios`
+###  `yarn add axios`
+* Instalar Axios
 
-* Instalar React Timestamp
+
+### `npm install -D react-timestamp`
 ###  `yarn add react-timestamp`
-###  `npm install -D react-timestamp`
-
+* Instalar React Timestamp
 
