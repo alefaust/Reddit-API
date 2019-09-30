@@ -5,13 +5,13 @@
     
 }
 
-.info-list .action{
+.info-list .actions{
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
 }
 
-.info-list .action button {
+.info-list .actions button {
     padding: 10px;
     border-radius: 5px;
     border: 0;
@@ -24,7 +24,13 @@
     width: 200px;
 }
 
-.info-list .action button:hover{
+.info-list .actions button:hover{
     background: #ff5500;
     color:#fff;
 }
+
+.info-list .actions .plus {
+    width: 100%;
+    justify-content: center !important;
+}
+
