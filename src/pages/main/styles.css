@@ -1,0 +1,36 @@
+.info-list{
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+    
+}
+
+.info-list .actions{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.info-list .actions button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    background: #333333;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s;
+    width: 200px;
+}
+
+.info-list .actions button:hover{
+    background: #ff5500;
+    color:#fff;
+}
+
+.info-list .actions .plus {
+    width: 100%;
+    justify-content: center !important;
+}
+
